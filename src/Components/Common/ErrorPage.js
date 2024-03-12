@@ -9,7 +9,7 @@ export default function ErrorPage() {
       <div id="wrapper">
         <section
           className="section-sm bg-periglacial-blue one-screen-page-content text-center"
-          style={{ margin: "250px" }}
+          style={{ margin: "350px 0" }}
         >
           <div className="shell">
             <h2>404</h2>
