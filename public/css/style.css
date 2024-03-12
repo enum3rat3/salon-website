@@ -8526,7 +8526,6 @@ form {
 
 .shell,
 .shell-wide {
-  min-width: 300px;
   max-width: 100%;
 }
 
