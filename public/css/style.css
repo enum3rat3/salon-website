@@ -84,7 +84,6 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
-
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -93,7 +92,7 @@ html {
 
 .navbar-li a {
   font-weight: bold;
-  font-size: 15px
+  font-size: 15px;
 }
 
 body {
@@ -27331,7 +27330,7 @@ dt {
 }
 
 .page-title-content {
-  padding: 35px 0;
+  padding: 75px 0;
 }
 
 @media (min-width: 1800px) {
@@ -27366,7 +27365,7 @@ dt {
 
 .page-title-header {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: -35px;
   font-family: "Arvo", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #000;
@@ -29079,7 +29078,7 @@ blockquote .small:before {
 }
 
 .box-contacts-block {
-  padding: 30px 0;
+  padding: 30px 30px;
 }
 
 .box-contacts-col + .box-contacts-col {
